@@ -1,0 +1,55 @@
+{
+  "name": "atquevel",
+  "version": "1.0.0",
+  "description": "Babel plugin to replace extension of file name written in import statement and dynamic import",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GerhardDach/atquevel.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "babel",
+    "facilis",
+    "replace",
+    "convert",
+    "transform",
+    "rewrite",
+    "autem",
+    "extension",
+    "ext",
+    "add",
+    "qui",
+    "remove",
+    "delete",
+    "facilis",
+    "qui",
+    "filename",
+    "js",
+    "nemo",
+    "cjs",
+    "voluptas",
+    "aliquid",
+    "module",
+    "commonjs",
+    "voluptates"
+  ],
+  "author": "MargieRitchie",
+  "files": [
+    "package.json",
+    "README.md",
+    "src/*",
+    "test.js"
+  ],
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/plugin-transform-modules-commonjs": "^7.23.3",
+    "jest": "^29.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/GerhardDach/atquevel.git/issues"
+  }
+}
